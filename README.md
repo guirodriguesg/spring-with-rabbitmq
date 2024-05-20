@@ -3,6 +3,7 @@ A sample repo with an implementation of Spring Boot 3 and RabbitMQ
 
 Execute the following command to run the RabbitMQ server:<br/>
 ```docker-compose up -d my-rabbit```
+user:password=guest
 <br/>
 <br/>Execute the following command to install the application:<br/> 
 ```mvn clean install```
